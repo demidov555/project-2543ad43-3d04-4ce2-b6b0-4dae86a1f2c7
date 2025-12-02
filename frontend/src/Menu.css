@@ -1,0 +1,1 @@
+.menu { display: flex; justify-content: space-around; padding: 20px; } .card { background: #fff; border-radius: 10px; padding: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); transition: transform 0.2s; } .card:hover { transform: scale(1.05); }
