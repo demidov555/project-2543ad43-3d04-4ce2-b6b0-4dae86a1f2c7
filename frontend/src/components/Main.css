@@ -1,9 +1,1 @@
-.main {
-  background-image: url('coffee_shop_image.jpg');
-  background-size: cover;
-  height: 100vh;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  color: white;
-}
+.main { background-image: url('coffee_shop_image.jpg'); background-size: cover; height: 100vh; display: flex; align-items: center; justify-content: center; color: white; }
