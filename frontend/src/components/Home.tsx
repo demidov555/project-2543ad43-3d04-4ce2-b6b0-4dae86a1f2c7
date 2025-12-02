@@ -1,1 +1,1 @@
-import React from 'react'; import './Home.css'; const Home = () => { return (<div className='home'> <h1>Добро пожаловать в Уют</h1> <p>Мы создаем атмосферу, в которой вы всегда будете чувствовать себя как дома.</p> <p>Наша цель - предоставить вам не только вкусную еду, но и теплый прием.</p> </div> ); }; export default Home;
+import React from 'react'; import './Home.css'; const Home = () => { return (<div className='home'> <h1>Добро пожаловать в Уют</h1> </div> ); }; export default Home;
