@@ -1,0 +1,11 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+  background: #f2e6d9;
+}
+.menu a {
+  margin: 0 15px;
+  text-decoration: none;
+  color: #4a4a4a;
+}

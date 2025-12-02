@@ -1,0 +1,14 @@
+import React from 'react';
+import './Footer.css';
+
+const Footer = () => {
+  return (
+    <footer className="footer">
+      <p>г. Москва, ул. Пушкина, 10</p>
+      <p>Телефон: +7 (999) 123-45-67</p>
+      <p>© 2025 Уют</p>
+    </footer>
+  );
+};
+
+export default Footer;
