@@ -1,0 +1,1 @@
+import React from 'react'; import './Home.css'; const Home = () => { return (<div className='home'> <h1>Добро пожаловать в Уют</h1> <p>Мы создаем атмосферу тепла и уюта, где каждый может насладиться вкусными напитками и десертами.</p> </div> ); }; export default Home;
