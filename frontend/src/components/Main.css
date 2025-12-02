@@ -1,5 +1,5 @@
 .main {
-  background-image: url('path_to_coffee_shop_image.jpg');
+  background-image: url('coffee_shop_image.jpg');
   background-size: cover;
   height: 100vh;
   display: flex;
