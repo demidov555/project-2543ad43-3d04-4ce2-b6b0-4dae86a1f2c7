@@ -6,7 +6,7 @@ const Footer = () => {
     <footer className="footer">
       <p>г. Москва, ул. Пушкина, 10</p>
       <p>Телефон: +7 (999) 123-45-67</p>
-      <div className="social-icons">
+      <div className="social">
         <a href="#">Instagram</a>
         <a href="#">VK</a>
       </div>
